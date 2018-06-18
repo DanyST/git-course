@@ -1,3 +1,6 @@
 #Larry Plotter
 
-Una genial historia de un hacker de los que hay pocos.
+Una epica historia de un hacker de los que hay pocos.
+
+**Luis Herrera L**, Larry Plotter Lover
+
