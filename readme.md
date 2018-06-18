@@ -1,3 +1,5 @@
 #Larry Plotter
 
-Una genial historia de un hacker de los que hay pocos.
+Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
+
+**Luis Herrera L.*. Git Lover
